@@ -1,0 +1,34 @@
+[
+    "index.md",
+    "introduction.md",
+    [
+        "asynchronous-code.md",
+        "asynchronous-code-promises.md",
+        "asynchronous-code-promises-create.md",
+        "asynchronous-code-promises-usage.md",
+        "asynchronous-code-promises-example.md",
+        "asynchronous-code-async-await.md"
+    ],
+    [
+        "miscellaneous-string-formatting.md",
+        "miscellaneous-arrow-functions.md",
+        "miscellaneous-for-of.md",
+        "miscellaneous-generators.md"
+    ],
+    [
+        "objects-shorthands-methods.md"
+    ],
+    "const-and-let.md",
+    "destructuring.md",
+    "spreading-and-rest.md",
+    [
+        "classes.md",
+        "classes-2.md",
+        "classes-inheritance.md"
+    ],
+    [
+        "modules-export.md",
+        "modules-import.md"
+    ],
+    "frameworks.md"
+]
